@@ -1,7 +1,9 @@
 fortnite_videos/
 character_frames/
 character_frames_no_bg/
+augmented_data/
 rembg_models/
+scenes/
 runs/
 *.pt
 test*
