@@ -5,5 +5,9 @@ augmented_data/
 rembg_models/
 scenes/
 runs/
+models/
+inference_outputs*
+person_detection/
 *.pt
+*.cache
 test*
