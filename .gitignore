@@ -1,14 +1,4 @@
-fortnite_videos/
-client-dataset/
-character_frames/
-character_frames_no_bg/
-augmented_data/
-rembg_models/
-scenes/
-runs/
 models/
-inference_outputs*
-person_detection/
 *.pt
 *.cache
 test*
