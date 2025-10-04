@@ -1,5 +1,7 @@
 models/
 assets/
+dev/
+person_detection/
 *.pt
 *.cache
 test*
