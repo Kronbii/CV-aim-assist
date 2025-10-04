@@ -1,4 +1,5 @@
 models/
+assets/
 *.pt
 *.cache
 test*
